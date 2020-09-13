@@ -3,7 +3,6 @@ Dockerized REST API Image Classification with Inception v3, Flask and MongoDB
 
 This app works on macOS, Windows, and Linux.<br>
 If something doesn’t work, please [file an issue](https://github.com/radhuda/ImageClassification/issues/new).
-![DemoGif](ImageClassifier.gif)
 
 ## Quick Overview
 
@@ -14,6 +13,7 @@ sudo docker-compose build
 sudo docker-compose up
 ```
 
+![DemoGif](ImageClassifier.gif)<br>
 
 Then open [http://localhost:5000/](http://localhost:5000/) in postman to POST to the api.<br>
 Resouces include /Classify, /Register, /Refill
