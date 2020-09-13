@@ -14,7 +14,8 @@ sudo docker-compose up
 ```
 
 
-Then open [http://localhost:5000/](http://localhost:5000/) to see the app.<br>
+Then open [http://localhost:5000/](http://localhost:5000/) in postman to POST to the api.<br>
+Resouces include /Classify, /Register, /Refill
 
 
 ### Requirements
