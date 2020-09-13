@@ -3,6 +3,7 @@ Dockerized REST API Image Classification with Inception v3, Flask and MongoDB
 
 This app works on macOS, Windows, and Linux.<br>
 If something doesn’t work, please [file an issue](https://github.com/radhuda/ImageClassification/issues/new).
+![DemoGif](ImageClassifier.gif)
 
 ## Quick Overview
 
