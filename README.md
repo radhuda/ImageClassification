@@ -18,11 +18,11 @@ Then open [http://localhost:5000/](http://localhost:5000/) to see the app.<br>
 
 
 ### Requirements
-'''
+```
 Python 3
 Docker
 Docker-Compose
-'''
+```
 
 ### File Structure
 
