@@ -13,11 +13,11 @@ sudo docker-compose build
 sudo docker-compose up
 ```
 
-![DemoGif](ImageClassifier.gif)<br>
-
 Then open [http://localhost:5000/](http://localhost:5000/) in postman to POST to the api.<br>
 Resouces include /Classify, /Register, /Refill
 
+
+![DemoGif](ImageClassifier.gif)<br>
 
 ### Requirements
 ```
